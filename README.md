@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date:6/11/25
+# Register no.:212223060119
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -30,9 +30,15 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# PROMPT:
+A cinematic, wide-angle tracking shot following a golden retriever as it runs happily along a wet, sandy beach during sunset. The sky is a vibrant mix of orange, pink, and purple, and the sun is just touching the horizon. The dog kicks up small splashes of water as it runs, and the camera stays low to the ground, matching the dog's speed. The shot should be in slow-motion, capturing the dog's joyful expression and the detailed spray of the water.
+
+# OUTPUT:
+<img width="1087" height="662" alt="image" src="https://github.com/user-attachments/assets/f4d6f817-7f22-4cb1-b2ce-58160a09acce" />
 
 
-# Result: The Prompt of the above task executed successfully
+# Result:
+The Prompt of the above task executed successfully
 
 
 
