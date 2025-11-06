@@ -36,6 +36,8 @@ A cinematic, wide-angle tracking shot following a golden retriever as it runs ha
 # OUTPUT:
 <img width="1087" height="662" alt="image" src="https://github.com/user-attachments/assets/f4d6f817-7f22-4cb1-b2ce-58160a09acce" />
 
+<img width="922" height="548" alt="image" src="https://github.com/user-attachments/assets/94cc2e7c-3f22-452c-9310-61a8407c7db8" />
+
 
 # Result:
 The Prompt of the above task executed successfully
